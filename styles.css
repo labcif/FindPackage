@@ -1,0 +1,26 @@
+.centered-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.centered-form .form-container {
+    width: 100%;
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
+
+.top-center {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#listApp {
+    list-style: none;
+}
